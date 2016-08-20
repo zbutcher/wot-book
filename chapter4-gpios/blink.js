@@ -19,6 +19,7 @@ process.on('SIGINT', function () { //#F
   process.exit();
 });
 
+// TEST
 // #A Import the onoff library
 // #B Initialize pin 4 to be an output pin
 // #C This interval will be called every 2 seconds
